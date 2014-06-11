@@ -1,21 +1,12 @@
 {
-  "name": "oil_fund",
+  "name": "thailandoilfundgithubio",
   "version": "0.0.0",
-  "authors": [
-    "Kamol Treewatchararat <kamol@tholapz.com>"
-  ],
-  "description": "a game about Thailand Oil Fund",
-  "main": "index.html",
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
   "dependencies": {
-    "jquery": "~2.1.1",
-    "bootstrap": "~3.1.1"
-  }
+    "sass-bootstrap": "~3.0.2",
+    "jquery": "~2.1.0",
+    "underscore": "~1.6.0",
+    "backbone": "~1.1.0",
+    "modernizr": "~2.7.1"
+  },
+  "devDependencies": {}
 }
