@@ -2,7 +2,7 @@
   "name": "oil_fund",
   "version": "0.0.0",
   "authors": [
-    "Kamol Treewatchararat <Kamol.Treewatchararat@telescope.tv>"
+    "Kamol Treewatchararat <kamol@tholapz.com>"
   ],
   "description": "a game about Thailand Oil Fund",
   "main": "index.html",
@@ -13,5 +13,9 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1"
+  }
 }
