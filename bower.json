@@ -1,0 +1,17 @@
+{
+  "name": "oil_fund",
+  "version": "0.0.0",
+  "authors": [
+    "Kamol Treewatchararat <Kamol.Treewatchararat@telescope.tv>"
+  ],
+  "description": "a game about Thailand Oil Fund",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
